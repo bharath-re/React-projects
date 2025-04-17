@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function Header() {
   return (
     <header className="bg-white shadow-md py-4 px-8 flex justify-between items-center">
-      <h1 className="text-2xl font-bold text-blue-600">MyApp</h1>
+      <h1 className="text-2xl font-bold text-blue-600"> Comfy</h1>
       <nav className="space-x-6">
         <Link
           to="/login"
